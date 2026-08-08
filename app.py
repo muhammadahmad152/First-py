@@ -30,7 +30,7 @@
 # elif percentage >= 60:
 #     print("The grade is C")
 # else:
-#     print("Fail") 
+#     print("Fail")
 
 
 #loop
@@ -39,5 +39,39 @@
 # for rr in list:
 #     print(rr)
 
-for ss in range(10):
-    print(ss) 
+# for ss in range(10):
+#     print(ss)
+
+# for i in range(5):
+#     print(i)
+
+#     fruits = ["apple", "banana", "mango"]
+
+# for fruit in fruits:
+#     print(fruit)
+
+# for letter in "Python":
+#     print(letter)
+
+# # for i in range(1, 11):
+# #     print(i)
+
+# i = 1
+
+# while i <= 5:
+#     print(i)
+#     i += 1
+
+# for i in range(10):
+#     if i == 5:
+#         break
+#     print(i)
+
+# thistuple = ("apple", "banana", "cherry")
+# print(thistuple)
+
+# thistuple = ("apple", "banana", "cherry", "apple", "cherry")
+# print(thistuple)
+
+thisset = {"apple", "banana", "cherry"}
+print(thisset)
